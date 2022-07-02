@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# E-shop
 
 > eCommerce platform built with the MERN stack & Redux.
 
@@ -17,8 +17,7 @@ This is the course project for my MERN eCommerce course
 - Admin Order details page
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
-- Database seeder (products & users)
+
 
 ## Usage
 
